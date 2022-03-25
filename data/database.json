@@ -11,7 +11,7 @@
       "phoneNumber": "625-316-9882",
       "avatar": "https://cypress-realworld-app-svgs.s3.amazonaws.com/t45AiwidW.svg",
       "defaultPrivacyLevel": "public",
-      "balance": 9950000,
+      "balance": 9910000,
       "createdAt": "2019-08-27T23:47:05.637Z",
       "modifiedAt": "2020-05-21T11:02:22.857Z"
     },
@@ -26,7 +26,7 @@
       "phoneNumber": "537-041-4355",
       "avatar": "https://cypress-realworld-app-svgs.s3.amazonaws.com/qywYp6hS0U.svg",
       "defaultPrivacyLevel": "private",
-      "balance": 101805,
+      "balance": 141805,
       "createdAt": "2019-09-09T13:48:45.489Z",
       "modifiedAt": "2020-05-21T02:34:01.483Z"
     },
@@ -9855,6 +9855,18 @@
       "requestResolvedAt": "",
       "createdAt": "2019-06-27T22:24:04.794Z",
       "modifiedAt": "2020-05-21T04:58:44.494Z"
+    },
+    {
+      "id": "d1LGlrs5s",
+      "uuid": "e8095d03-8195-4ee1-bccc-61285464ea9a",
+      "amount": 40000,
+      "description": "Light bill",
+      "receiverId": "qywYp6hS0U",
+      "senderId": "t45AiwidW",
+      "privacyLevel": "public",
+      "status": "complete",
+      "createdAt": "2022-03-25T09:08:49.961Z",
+      "modifiedAt": "2022-03-25T09:08:49.961Z"
     }
   ],
   "likes": [
@@ -10431,6 +10443,16 @@
       "isRead": false,
       "createdAt": "2019-10-19T20:50:49.292Z",
       "modifiedAt": "2020-05-21T21:00:50.192Z"
+    },
+    {
+      "id": "mUwnzzgBUz",
+      "uuid": "cc6b4a04-396f-45ad-b5b5-7c905b234e74",
+      "userId": "qywYp6hS0U",
+      "transactionId": "d1LGlrs5s",
+      "status": "received",
+      "isRead": false,
+      "createdAt": "2022-03-25T09:08:49.973Z",
+      "modifiedAt": "2022-03-25T09:08:49.973Z"
     }
   ],
   "banktransfers": [
